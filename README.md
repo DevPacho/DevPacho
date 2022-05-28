@@ -16,7 +16,7 @@ FranRM15/FranRM15 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=onedark" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact" />
 
