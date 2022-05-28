@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=radical" />
 
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact" />
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact" />
 
