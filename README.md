@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Pacho! 😎
 - 👀 I’m interested in <b><code>Full-Stack Development!</code></b>
-- 🎯 I’m currently learning about:
+- 🤔 Curious about:
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -15,7 +15,7 @@
 FranRM15/FranRM15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Learning at <a href="https://www.holbertonschool.com" target="_blank"><i>Holberton School!</i>
+- 🎯 Learning at <a href="https://www.holbertonschool.com" target="_blank"><i>Holberton School!</i>
 <img width="75%"  src="https://user-images.githubusercontent.com/98773774/170813593-93e6d7ca-62e7-4ed9-9c19-b394d6b32ec9.png" />
 <br>
 <h2>A little bit of my stats! 📊</h2>
