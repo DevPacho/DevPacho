@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - 🧐 **Currently**, **<code>in search of opportunities</code>** to contribute to companies and/or development projects that provides <br>
 technological solutions for a more digitalized and optimal future.</i>
 <img width="75%"  src="https://user-images.githubusercontent.com/98773774/170813593-93e6d7ca-62e7-4ed9-9c19-b394d6b32ec9.png" />
-<br>
+
 <h2>A little bit of my stats... 📊</h2>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=tokyonight" />
 
