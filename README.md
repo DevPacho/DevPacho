@@ -1,10 +1,12 @@
-# 👋 Hi there, I’m Pacho! 😎
-- 🎯 Junior Software Developer with interest in working on
+# <div align="center">Hi 👋, I’m Pacho! 😎 </div>
+<div align="center"> 🎯 Junior Software Developer with interest in working in
 Web Frontend and experience in FullStack
 Development. <br>
-With skills such as leadership, teamwork,
-fast learning, assertive communication and attention to
-detail.
+I enjoy the day to day and I tend to stand out for my fun, social and unconditional personality. <br>
+In addition, I have skills such as teamwork, assertive communication, leadership and attention to detail 🎯 </div> <br>
+
+![](https://komarev.com/ghpvc/?username=DevPacho&color=red&style=for-the-badge) <br>
+
 - 🤩 My favorite languages and technologies:
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,9 +32,12 @@ You can click the Preview link to take a look at your changes.
 --->
 - 🧐 **Currently**, **<code>in search of opportunities</code>** to contribute to companies and/or development projects that provides <br>
 technological solutions for a more digitalized and optimal future.</i>
-<img width="75%"  src="https://user-images.githubusercontent.com/98773774/170813593-93e6d7ca-62e7-4ed9-9c19-b394d6b32ec9.png" />
+
+- ✉️ Contact with me! **frankjose2004@gmail.com** | [LinkedIn - Francisco Ramírez](https://www.linkedin.com/in/franciscoramírez-desarrollador/)
+
+<div align="center"> <img width="75%" src="https://user-images.githubusercontent.com/98773774/170813593-93e6d7ca-62e7-4ed9-9c19-b394d6b32ec9.png" /> </div>
 
 <h2>A little bit of my stats... 📊</h2>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact" />
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact" />
