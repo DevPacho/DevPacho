@@ -45,4 +45,4 @@ technological solutions for a more digitalized and optimal future.</i>
 <h2>A little bit of my stats... 📊</h2>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=tokyonight" />
 
-<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact&langs_count=15" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact&langs_count=15" />
