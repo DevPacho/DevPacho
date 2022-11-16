@@ -33,7 +33,12 @@ You can click the Preview link to take a look at your changes.
 - 🧐 **Currently**, **<code>in search of opportunities</code>** to contribute to companies and/or development projects that provides <br>
 technological solutions for a more digitalized and optimal future.</i>
 
-- ✉️ Contact with me! **frankjose2004@gmail.com** | **[LinkedIn - Francisco Ramírez](https://www.linkedin.com/in/franciscoramírez-desarrollador/)**
+- 📲 Contact with me!
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Ramírez-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/franciscoramírez-desarrollador/)
+  [![Gmail](https://img.shields.io/badge/Gmail-frankjose2004@gmail.com-red?logo=Gmail&logoColor=red&labelColor=white)](mailto:frankjose2004@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-Pacho-blue?logo=Discord&logoColor=blue&labelColor=white)](Pacho#9306)
+
 
 <div align="center"> <img width="75%" src="https://user-images.githubusercontent.com/98773774/170813593-93e6d7ca-62e7-4ed9-9c19-b394d6b32ec9.png" /> </div>
 
