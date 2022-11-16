@@ -37,7 +37,7 @@ technological solutions for a more digitalized and optimal future.</i>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Ramírez-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/franciscoramírez-desarrollador/)
   [![Gmail](https://img.shields.io/badge/Gmail-frankjose2004@gmail.com-red?logo=Gmail&logoColor=red&labelColor=white)](mailto:frankjose2004@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-Pacho-blue?logo=Discord&logoColor=blue&labelColor=white)](Pacho#9306)
+  [![Discord](https://img.shields.io/badge/Discord-Pacho9306-blue?logo=Discord&logoColor=blue&labelColor=white)](https://discord.com)
 
 
 <div align="center"> <img width="75%" src="https://user-images.githubusercontent.com/98773774/170813593-93e6d7ca-62e7-4ed9-9c19-b394d6b32ec9.png" /> </div>
@@ -45,4 +45,4 @@ technological solutions for a more digitalized and optimal future.</i>
 <h2>A little bit of my stats... 📊</h2>
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DevPacho&show_icons=true&theme=tokyonight" />
 
-<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact" />
+<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPacho&layout=compact&langs_count=15" />
