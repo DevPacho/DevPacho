@@ -3,7 +3,9 @@
 Web Frontend and experience in FullStack
 Development. <br>
 I enjoy the day to day and I tend to stand out for my fun, social and unconditional personality. <br>
-In addition, I have skills such as teamwork, assertive communication, leadership and attention to detail 🎯 </div> <br>
+In addition, I have skills such as teamwork, assertive communication, leadership and attention to detail <br>
+with which I seek to contribute to the IT world
+to exploit and elevate my potential to the next level 🎯 </div> <br>
 
 ![](https://komarev.com/ghpvc/?username=DevPacho&color=red&style=for-the-badge) <br>
 
@@ -21,6 +23,7 @@ In addition, I have skills such as teamwork, assertive communication, leadership
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
